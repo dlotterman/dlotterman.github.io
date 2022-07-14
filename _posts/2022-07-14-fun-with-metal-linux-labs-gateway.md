@@ -20,7 +20,7 @@ A common character in these kinds of labs deployments is a Linux "Ops" or "Basti
 
 The below sample is intentionally Linux distro agnostic, and makes the instance available on the Metal [Layer-2](https://metal.equinix.com/developers/docs/layer2-networking/overview/) VLAN `2897` to other instances on that same network.
 
-The VLAN `2897` needs to be attached to the instance in the Metal platform (GUI / API) before this.
+The VLAN `2897` needs to be attached to the instance in the Metal platform (GUI / API) prior to this.
 
 ```
 [adminuser@router01 ~]# sudo ip link add link bond0 name bond0.2897 type vlan id 2897

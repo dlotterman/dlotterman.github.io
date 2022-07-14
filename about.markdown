@@ -6,13 +6,15 @@ permalink: /about/
 
 These are the personal pages for Dan(iel) Lotterman.
 
-All thoughts, ideas, expressions and content hosted here are my solely my own.
+All thoughts, ideas, expressions and content hosted here are solely my own, and represent no other party.
 
-All thoughts, ideas, expressions and content here represent a "thought junk drawer". By no means are they intended to be authoratative, correct, or the "origination" of the thing. If someone else claims to have a more correct or more original take on anything hosted here, they are very likely correct.
+All thoughts, ideas, expressions and content here represent a "thought junk drawer". By no means are they intended to be authoratative, correct, or the "origination" of the thing. If someone else claims to have a more correct or more original take on any subject referenced hosted here, they are very likely correct.
 
 Currently living in Los Angeles, CA.
 
-I do my best to avoid social media and a public personal footprint in general. If you are looking to reach me, this is where you can reach me. 
+I believe all human lives and all human experiences are equal. Compassion is righteous.
+
+I do my best to avoid social media or a personal public footprint in general. If you are looking to reach me, this is where you can reach me. 
 
 - [linkedin](https://www.linkedin.com/in/dlotterman/)
 - [github](https://github.com/dlotterman)
